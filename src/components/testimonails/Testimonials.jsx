@@ -1,6 +1,6 @@
 import React from "react";
 import "./testimonials.css";
-import AVTR1 from "../../assets/avatar1.jpg";
+import AVTR1 from "../../assets/avatar1.jfif";
 import AVTR2 from "../../assets/avatar2.jpg";
 import AVTR3 from "../../assets/avatar3.jpg";
 import AVTR4 from "../../assets/avatar4.jpg";
@@ -12,7 +12,6 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 const Testimonials = () => {
-  
   return (
     <section id="testimonials">
       <h5>Recommendations</h5>
@@ -33,7 +32,10 @@ const Testimonials = () => {
           <div className="client-avatar">
             <img src={AVTR1} alt="Recommdator Profile" />
           </div>
-          <h5 className="client-name">REcomdator Name</h5>
+          <h5 className="client-name">Sharjeel Yunus</h5>
+          <h5 className="client-name">
+            FULLSTACK DEVELOPER REACT / NEXTJS DEV
+          </h5>
           <small className="client-review">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
             doloremque animi enim illum quasi adipisci necessitatibus eum harum
@@ -43,9 +45,12 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial">
           <div className="client-avatar">
-            <img src={AVTR2} alt="Recommdator Profile" />
+            <img src={AVTR1} alt="Recommdator Profile" />
           </div>
-          <h5 className="client-name">REcomdator Name</h5>
+          <h5 className="client-name">Sharjeel Yunus</h5>
+          <h5 className="client-name">
+            FULLSTACK DEVELOPER REACT / NEXTJS DEV
+          </h5>
           <small className="client-review">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
             doloremque animi enim illum quasi adipisci necessitatibus eum harum
@@ -55,9 +60,12 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial">
           <div className="client-avatar">
-            <img src={AVTR3} alt="Recommdator Profile" />
+            <img src={AVTR1} alt="Recommdator Profile" />
           </div>
-          <h5 className="client-name">REcomdator Name</h5>
+          <h5 className="client-name">Sharjeel Yunus</h5>
+          <h5 className="client-name">
+            FULLSTACK DEVELOPER REACT / NEXTJS DEV
+          </h5>
           <small className="client-review">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
             doloremque animi enim illum quasi adipisci necessitatibus eum harum
@@ -67,9 +75,12 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial">
           <div className="client-avatar">
-            <img src={AVTR4} alt="Recommdator Profile" />
+            <img src={AVTR1} alt="Recommdator Profile" />
           </div>
-          <h5 className="client-name">REcomdator Name</h5>
+          <h5 className="client-name">Sharjeel Yunus</h5>
+          <h5 className="client-name">
+            FULLSTACK DEVELOPER REACT / NEXTJS DEV
+          </h5>
           <small className="client-review">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
             doloremque animi enim illum quasi adipisci necessitatibus eum harum

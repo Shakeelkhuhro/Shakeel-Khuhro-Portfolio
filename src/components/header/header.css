@@ -34,7 +34,11 @@ header {
     content: '';
     width: 1px;
     height: 2rem;
-    background: var(--color-primary);
+    background: var(--color-white);
+}
+
+.header-socials a{
+        color: var(--color-white);
 }
 
 
@@ -61,6 +65,7 @@ header {
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
+    color: var(--color-white);
 }
 
 
@@ -79,15 +84,17 @@ header {
         height: 100vh;
     }
 
-    .header-socials{
+    .header-socials {
         display: flex;
         flex-direction: row;
         bottom: 75%;
         left: 40%;
     }
-    .header-socials::after{
+
+    .header-socials::after {
         display: none;
     }
+
     .scroll-down {
         display: none;
     }
