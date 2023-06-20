@@ -142,6 +142,9 @@ img {
     .container{
         width: var(--container-with-sm);
     }
+    section{
+            margin-top: 5rem !important;
+    }
 
     section>h2{
         margin-bottom: 2rem;

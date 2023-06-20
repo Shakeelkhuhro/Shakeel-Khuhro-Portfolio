@@ -4,12 +4,13 @@ import {FiLinkedin} from 'react-icons/fi';
 import {SiFacebook} from 'react-icons/si';
 import {FaInstagram} from 'react-icons/fa';
 import {FiTwitter} from 'react-icons/fi';
+import logo from '../../assets/logo.png'
 
 const Footer = () => {
   return (
     <footer id="footer">
       <a href="#" className="footer-logo">
-        Elegator
+        <img src={logo} alt="Portfolio logo"/>
       </a>
       <ul className="permalinks">
         <li>

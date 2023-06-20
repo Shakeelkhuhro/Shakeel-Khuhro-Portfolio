@@ -79,7 +79,15 @@ header {
         height: 100vh;
     }
 
-    .header-socials,
+    .header-socials{
+        display: flex;
+        flex-direction: row;
+        bottom: 75%;
+        left: 40%;
+    }
+    .header-socials::after{
+        display: none;
+    }
     .scroll-down {
         display: none;
     }
