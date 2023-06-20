@@ -46,18 +46,19 @@ To set up the portfolio website locally, please follow these steps:
 ## Installation
 
 Navigate to the project directory:
-cd your-portfolio
+cd my-portfolio 
 
 Install the required dependencies:
 npm install
 
 # Usage
 
-To run the portfolio website on your local machine, perform the following steps:
+To run the portfolio website on my local machine, perform the following steps:
 
-Start the development server:
+Start the development server: <br>
 npm start
-Open your web browser and visit http://localhost:3000 to view the portfolio website.
+
+Open my web browser and visit http://localhost:3000 to view the portfolio website.
 
 # Components
 
@@ -71,23 +72,23 @@ The Nav component provides navigation links to different sections of the website
 
 ## About
 
-The About component showcases information about yourself, your skills, and your experience.
+The About component showcases information about myself, my skills, and my experience.
 
 ## Portfolio
 
-The Portfolio component displays your projects or works, allowing visitors to view details and access them.
+The Portfolio component displays my projects or works, allowing visitors to view details and access them.
 
 ## Community Work
 
-The Community Work component highlights any contributions or volunteer work you have done in the community.
+The Community Work component highlights any contributions or volunteer work i have done in the community.
 
 ## Testimonials
 
-The Testimonials component showcases recommendations and testimonials from your clients or colleagues.
+The Testimonials component showcases recommendations and testimonials from my clients or colleagues.
 
 ## Contact
 
-The Contact component provides a contact form or details for visitors to get in touch with you.
+The Contact component provides a contact form or details for visitors to get in touch with i.
 
 ## Footer
 
@@ -127,19 +128,19 @@ Programming language for adding interactivity and functionality.
 
 # Contributing
 
-Contributions are highly appreciated! If you would like to contribute by suggesting improvements, fixing bugs, or adding new features, please adhere to the following guidelines:
+Contributions are highly appreciated! If i would like to contribute by suggesting improvements, fixing bugs, or adding new features, please adhere to the following guidelines:
 
 # Fork the repository.
 
 1. Create a new branch.
-1. Implement your changes.
-1. Commit and push your changes to your forked repository.
+1. Implement my changes.
+1. Commit and push my changes to my forked repository.
 1. Submit a pull request.
-1. Please ensure that your contributions align with the project's coding conventions and maintain the existing code style.
+1. Please ensure that my contributions align with the project's coding conventions and maintain the existing code style.
 
 # Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to me:
+If i have any questions, suggestions, or feedback, please feel free to reach out to me:
 
 Name: Shakeel Khuhro
 Email: shakeelahmedkhu@example.com
