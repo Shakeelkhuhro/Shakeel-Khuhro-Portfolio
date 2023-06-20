@@ -24,6 +24,7 @@
 }
 
 .about-me-img {
+    width: 97.5%;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);

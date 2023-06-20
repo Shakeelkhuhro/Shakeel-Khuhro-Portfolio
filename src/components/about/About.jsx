@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./about.css";
-import AboutImage from "../../assets/me-about.jpg";
+import AboutImage from "../../assets/me-about.jpeg";
 import TabTitles from "./TabTitles";
 
 const About = () => {
