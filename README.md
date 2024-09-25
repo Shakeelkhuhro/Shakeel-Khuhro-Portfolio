@@ -143,6 +143,6 @@ Contributions are highly appreciated! If i would like to contribute by suggestin
 If i have any questions, suggestions, or feedback, please feel free to reach out to me:
 
 Name: Shakeel Khuhro <br>
-Email: shakeelahmedkhu@example.com <br>
+Email: shakeelahmedkhu@gmail.com <br>
 GitHub: https://github.com/Shakeelkhuhro <br>
 LinkedIn: https://www.linkedin.com/in/shakeelkhuhro/
